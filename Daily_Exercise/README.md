@@ -10,6 +10,7 @@ Tasks of the day are written in POTD.txt files.
 - Template functions
 - Virtual functions
 - Linked list (insertion, sorting, intersection, shuffling)
+- Queue and stack
 - Tree (Traversal, binary trees)
 
 
